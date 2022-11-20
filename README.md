@@ -10,4 +10,4 @@
 For obtaining the design dimensions for structural members run Main.m
 
 ## Example:
-asjlkf
+![](Figures/ShearCenter_CG_Locations.jpg)
