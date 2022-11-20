@@ -10,4 +10,5 @@
 For obtaining the design dimensions for structural members run Main.m
 
 ## Example:
+### Airfoil: GOE802
 ![](Figures/ShearCenter_CG_Locations.jpg)
